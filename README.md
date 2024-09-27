@@ -1,3 +1,3 @@
-\
 
 ![1 mp4-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/df031688-e84f-4b72-92b9-04e866a12d6b)
+# My boss told me to have a good day. So I went home.
