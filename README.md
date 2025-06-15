@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Hải — Front-End Developer & Lifelong Learner
+# 👋 Hey, I'm Hải — Technical Support Engineer & Lifelong Learner
 
 ![MYGIF](https://github.com/user-attachments/assets/4fc2b581-002e-4597-a78f-7fdc20f00d90)
 
@@ -8,10 +8,8 @@
 
 ## 👀 About Me
 
-I write code. I write truth. I don’t write pickup lines.
-
-Frontend by skill, mindset by obsession.  
-I don’t just build websites — I build better ways to think, live, and connect.
+By day, I troubleshoot real-world tech problems.  
+By night, I build side projects and write to understand myself better — and help others do the same.
 
 📌 Around here, you'll find a mix of:
 
